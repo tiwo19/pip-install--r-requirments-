@@ -1,0 +1,2 @@
+# pip-install--r-requirments-
+I get errors when i run pip install --user -r requirements at the downloading at this stage  Downloading https://files.pythonhosted.org/packages/ae/06/7274e50d4131dd437b681505672772e52742410347e591a90b1ef49a9627/gevent-1.2.2-cp36-cp36m-win_amd64.whl (634kB)     64% |████████████████████▌           | 409kB 4.5kB/s eta 0:00:50Exception: Traceback (most recent call last): am new to django and and python 4 months newbie please help !!!!! 
